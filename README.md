@@ -1,2 +1,2 @@
-# aula-gihub
+# aula-github
 
